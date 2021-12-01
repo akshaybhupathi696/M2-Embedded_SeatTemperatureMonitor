@@ -12,4 +12,3 @@
 | TID_08  | LED ON | Button=1 && Heater=1| LED ON and Voltmeter Will show 5V |
 | TID_09  | LED OFF | Button=0 && Heater=0| LED OFF and Voltmeter will show 0V |
 | TID_10  | LCD Display | Temperature :)<br />20 deg Cel| Temperature :)<br />20 deg Cel|
-
