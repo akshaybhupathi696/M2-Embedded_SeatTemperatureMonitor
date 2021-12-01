@@ -9,29 +9,32 @@ It's capable of determining weather the user is exist or not in the vehicle. If 
 
 ### SWOT Analysis
 
-## Strengths
+|  Strengths   |
+| ------------- |
+| User Friendly | 
+| Easy to modify the temperature value| 
+| Low cost|  
+| Modular Based Programs|
 
-User Friendly. Easy to modify the temperature value. The system is robust. Low cost. Modular Based Programs.
+|  Weakness  |
+| ---------- |
+| It's only applicable for the countries which are having having low temperature |
 
-## Weakness
+|  Opportunities   |
+| ---------------|
+| It can be implemented by replacing heater by air conditioners so that it will be helpful in all the countries |
 
-It's only applicable for the countries which are having having low temperature.
-
-## Opportunities
-
-It can be implemented by replacing heater by air conditioners so that it will be helpful in all the countries.
-
-## Threats
-
-Not suitable for average or high temperature environment.
+| Threats |
+| ------ |
+| Not suitable for average or high temperature environment |
 
 ### 4W's and 1'H
 
--  **WHAT** : Passanger Seat and Heat Monitoring System.    
--  **WHERE** : Used in automotive industry.   
--  **WHEN** : At low temperature.   
--  **WHY** : For being healthy.   
--  **HOW** : Operates by modifying the temperature.   
+**WHAT** : Passanger Seat and Heat Monitoring System.    
+**WHERE** : Used in automotive industry.   
+**WHEN** : At low temperature.   
+**WHY** : For being healthy.   
+**HOW** : Operates by modifying the temperature.   
 
 ### High Level Requirements
 
