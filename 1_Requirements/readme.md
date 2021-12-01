@@ -9,7 +9,8 @@ The Vehicle Monitoring is one of the major feature of our project. In this techn
 -  The passanger can modify the temperature by watching the display as the display is given in the system
 -  Modular Based Programming.
 
-## SWOT Analysis- Strengths, and Weakness, Opportunities Threats
+## SWOT Analysis
+
 ### Strengths
 -  User Friendly.
 -  Easy to modify the temperature value.
@@ -33,7 +34,6 @@ The Vehicle Monitoring is one of the major feature of our project. In this techn
 -  **WHY** : For being healthy.
 -  **HOW** : Operates by modifying the temperature.
 
-## Detail requirements
 ### High Level Requirements
 | High Level Requirements      | Description |
 | ----------- | ----------- |
@@ -43,7 +43,6 @@ The Vehicle Monitoring is one of the major feature of our project. In this techn
 | HLR4   | Microcontroller|
 | HLR5   | Software used|
 | HLR6   | Display|
-
 
 ### Low Level Requirements
 | Low Level Requirements      | Description |
